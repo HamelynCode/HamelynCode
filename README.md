@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola, soy HamelynCode, me alegra verte aquí 👋
+
+Soy desarrollador Web, me apasiona el mundo de la informática y la programación.
+Acá puedes ver los repositorios de mis prácticas y proyectos.
 
 <!--
 **HamelynCode/HamelynCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
